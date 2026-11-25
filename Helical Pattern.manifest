@@ -1,0 +1,14 @@
+{
+	"autodeskProduct":	"Fusion",
+	"type":	"addin",
+	"id": "2ab41125-3a5b-4e7d-9c57-62a2407a689c",
+	"author":	"",
+	"description":	{
+		"" : "Creates a helical pattern around an axis."
+	},
+	"version":	"0.1",
+	"runOnStartup":	false,
+	"supportedOS":	"windows|mac",
+	"editEnabled":	true,
+	"iconFilename":	"AddInIcon.svg"
+}
